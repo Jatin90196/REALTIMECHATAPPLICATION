@@ -1,6 +1,6 @@
 ## ✬ Real-Time Chat Application
 
-This is a full-stack real-time chat application built using **Node.js**, **Express**, **MySQL**. It allows users to register, log in, and send messages instantly in a one-on-one chat system.
+This is a full-stack real-time chat application built using **Node.js**, **Express**, **MongoDB**. It allows users to register, log in, and send messages instantly in a one-on-one chat system.
 
 ---
 
